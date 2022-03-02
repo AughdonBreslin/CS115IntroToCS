@@ -1,7 +1,5 @@
 # mandelbrot.py
 # Lab 9
-#
-# Name: Aughdon Breslin
 
 # keep this import line...
 from cs5png import PNGImage

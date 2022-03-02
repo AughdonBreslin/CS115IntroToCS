@@ -15,4 +15,5 @@ def factorial(n):
     return reduce(mul,range(1,n+1))
 
 def mean (l):
+    if(l == []): return 0
     return reduce(add,l)/len(l)

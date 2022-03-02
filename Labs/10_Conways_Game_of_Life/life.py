@@ -1,9 +1,6 @@
 #
 # life.py - Game of Life lab
 #
-# Name:Aughdon Breslin
-# Pledge:
-#
 
 import random
 import sys
